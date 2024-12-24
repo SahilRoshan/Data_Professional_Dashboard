@@ -3,6 +3,8 @@
 ## Overview
 The **Data Professional Survey Breakdown Dashboard** provides an interactive analysis of survey data collected from data professionals. It delivers insights into demographics, job roles, average salaries, and the challenges faced by individuals breaking into the field of data. This dashboard is an essential tool for understanding trends, preferences, and satisfaction levels within the data industry.
 
+![image](https://github.com/user-attachments/assets/40095847-35dd-4897-b1b4-9b63d1a0cd79)
+
 ## Key Features
 1. **Survey Demographics:**
    - Breakdown of survey takers by country (e.g., United States, India, Canada, and others).
